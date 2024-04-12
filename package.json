@@ -1,0 +1,14 @@
+{
+  "name": "pora-students-repo",
+  "version": "1.0.0",
+  "description": "This is an environment for PORA practices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
